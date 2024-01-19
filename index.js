@@ -22,9 +22,9 @@ connectToMongo();
 
 
 app.get('/', (req, res) => {
-    res.send('Assalamualaikum  ')
+    res.send('hello  ')
 })
-
+// http://localhost:4000/api/auth/
 app.listen(port,()=>{
     console.log(`listening ${port} test`);
 })
