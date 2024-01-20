@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 // const mongoURI = "mongodb://localhost:27017/?readPreference=primary&directConnection=true"
-const mongoURI = "mongodb+srv://zeenatfirdoshquadri:zeenatfirdoshquadri@cluster0.rpexxoz.mongodb.net/?retryWrites=true&w=majority"
+const mongoURI = "mongodb+srv://samiullah0813:samiullah0813@inotebook.wurgccz.mongodb.net/?retryWrites=true&w=majority"
 // const mongoURI = "process.env.MONGOURI";
 
 const connectToMongo = async () => {
